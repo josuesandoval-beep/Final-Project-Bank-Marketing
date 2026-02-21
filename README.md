@@ -8,7 +8,7 @@ University of San Diego (USD).
 
 ## Project Objective
 
-###Contributors 
+### Contributors 
 - Janelle Stradford , Niraj Chandarana , Josue Sandoval
 
 ### Methods Uused
