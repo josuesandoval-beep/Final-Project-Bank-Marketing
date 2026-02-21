@@ -1,5 +1,5 @@
 # Final-Project-Bank-Marketing
-   This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the
+   This project is a part of the AAI-500-02 course in the Applied Artificial Intelligence Program at the
 University of San Diego (USD).
 
 -- Project status: Completed
