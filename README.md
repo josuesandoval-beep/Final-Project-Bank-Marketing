@@ -8,7 +8,7 @@ University of San Diego (USD).
    Preinstillation of ucimlrepo is required to fetch the dataset. This is included in the Jupyter Notebooks code but if issues occur then refer to: https://github.com/uci-ml-repo/ucimlrepo for further detailed set up instructions.
 
 ## Project Objective
-   The main purpose of the project is to assess the development of an end-to-end statistical analysis by finding a dataset, clean and prepare it for analysis, performe EDA, and produce a model. We then produce a final technical report discussing the results of the analysis and the validity of the models selected.  
+   The main purpose of the project is to assess the development of an end-to-end statistical analysis by finding a dataset, clean and prepare it for analysis, perform EDA, and produce a model. We then produce a final technical report discussing the results of the analysis and the validity of the models selected.  
    
 ### Contributors 
 - Janelle Stradford , Niraj Chandarana , Josue Sandoval
